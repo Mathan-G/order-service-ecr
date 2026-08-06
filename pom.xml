@@ -60,13 +60,6 @@
 				<configuration>
 					<source>1.8</source> <!-- or your Java version -->
 					<target>1.8</target>
-					<annotationProcessorPaths>
-						<path>
-							<groupId>org.projectlombok</groupId>
-							<artifactId>lombok</artifactId>
-							<version>1.18.30</version>
-						</path>
-					</annotationProcessorPaths>
 				</configuration>
 			</plugin>
 		</plugins>
